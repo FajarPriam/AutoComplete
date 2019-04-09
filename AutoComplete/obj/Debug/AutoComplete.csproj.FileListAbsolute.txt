@@ -31,3 +31,40 @@ D:\Visual Studio 2015\AutoComplete\AutoComplete\bin\System.Web.Mvc.xml
 D:\Visual Studio 2015\AutoComplete\AutoComplete\obj\Debug\AutoComplete.csprojResolveAssemblyReference.cache
 D:\Visual Studio 2015\AutoComplete\AutoComplete\obj\Debug\AutoComplete.dll
 D:\Visual Studio 2015\AutoComplete\AutoComplete\obj\Debug\AutoComplete.pdb
+D:\GitHub\AutoComplete\AutoComplete\bin\roslyn\csc.exe
+D:\GitHub\AutoComplete\AutoComplete\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GitHub\AutoComplete\AutoComplete\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GitHub\AutoComplete\AutoComplete\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GitHub\AutoComplete\AutoComplete\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GitHub\AutoComplete\AutoComplete\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GitHub\AutoComplete\AutoComplete\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GitHub\AutoComplete\AutoComplete\bin\roslyn\System.Collections.Immutable.dll
+D:\GitHub\AutoComplete\AutoComplete\bin\roslyn\System.Reflection.Metadata.dll
+D:\GitHub\AutoComplete\AutoComplete\bin\roslyn\vbc.exe
+D:\GitHub\AutoComplete\AutoComplete\bin\roslyn\VBCSCompiler.exe
+D:\GitHub\AutoComplete\AutoComplete\bin\roslyn\VBCSCompiler.exe.config
+D:\GitHub\AutoComplete\AutoComplete\bin\AutoComplete.dll.config
+D:\GitHub\AutoComplete\AutoComplete\bin\AutoComplete.dll
+D:\GitHub\AutoComplete\AutoComplete\bin\AutoComplete.pdb
+D:\GitHub\AutoComplete\AutoComplete\bin\EntityFramework.dll
+D:\GitHub\AutoComplete\AutoComplete\bin\EntityFramework.SqlServer.dll
+D:\GitHub\AutoComplete\AutoComplete\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GitHub\AutoComplete\AutoComplete\bin\Microsoft.Web.Infrastructure.dll
+D:\GitHub\AutoComplete\AutoComplete\bin\System.Web.Helpers.dll
+D:\GitHub\AutoComplete\AutoComplete\bin\System.Web.Mvc.dll
+D:\GitHub\AutoComplete\AutoComplete\bin\System.Web.Razor.dll
+D:\GitHub\AutoComplete\AutoComplete\bin\System.Web.Webpages.Deployment.dll
+D:\GitHub\AutoComplete\AutoComplete\bin\System.Web.Webpages.dll
+D:\GitHub\AutoComplete\AutoComplete\bin\System.Web.Webpages.Razor.dll
+D:\GitHub\AutoComplete\AutoComplete\bin\EntityFramework.xml
+D:\GitHub\AutoComplete\AutoComplete\bin\EntityFramework.SqlServer.xml
+D:\GitHub\AutoComplete\AutoComplete\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GitHub\AutoComplete\AutoComplete\bin\System.Web.Razor.xml
+D:\GitHub\AutoComplete\AutoComplete\bin\System.Web.Webpages.xml
+D:\GitHub\AutoComplete\AutoComplete\bin\System.Web.Webpages.Deployment.xml
+D:\GitHub\AutoComplete\AutoComplete\bin\System.Web.Webpages.Razor.xml
+D:\GitHub\AutoComplete\AutoComplete\bin\System.Web.Helpers.xml
+D:\GitHub\AutoComplete\AutoComplete\bin\System.Web.Mvc.xml
+D:\GitHub\AutoComplete\AutoComplete\obj\Debug\AutoComplete.csprojResolveAssemblyReference.cache
+D:\GitHub\AutoComplete\AutoComplete\obj\Debug\AutoComplete.dll
+D:\GitHub\AutoComplete\AutoComplete\obj\Debug\AutoComplete.pdb
